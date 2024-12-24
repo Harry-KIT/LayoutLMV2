@@ -8,4 +8,4 @@
 
 | Analytical Visualization |
 | -----------------|
-| <img src="https://github.com/Harry-KIT/LayoutLMV2/blob/main/assists/analytical_viz.png" width="754" height="500"> |
+| <img src="https://github.com/Harry-KIT/LayoutLMV2/blob/main/assists/analytical_viz.png" width="900" height="500"> |
