@@ -1,0 +1,17 @@
+{
+    "RANDOM_SEED": 42,
+    "LR": 5e-5,
+    "BATCH_SIZE": 2,
+    "EPOCHS": 10,
+
+    "DATA_DIR": "./dataset",
+    "SAVE_MODEL_PATH": "save_model/layoutlmv2_model.pth",
+    "MODEL_NAME_OR_PATH": "microsoft/layoutlmv2-base-uncased",
+
+    "MAX_SEQ_LENGTH": 512,
+    
+    "INFER_PATH": "infer/",
+    "SAVE_INFER_PATH": "infer/save/",
+    "MODEL_TYPE": "layoutlmv2",
+    "USE_WANDB": true
+}
